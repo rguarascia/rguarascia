@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🤓, I'm Ryan Guarascia</h1>
-<h3 align="center">Canadian Web Developer focused mainly on JavaScript, React, and building beautiful UI.</h3>
+<h3 align="center">Canadian Web Developer focused mainly on Typescript, React, and building beautiful UI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rguarascia&label=Profile%20views&color=0e75b6&style=flat" alt="rguarascia" /> </p>
 
 - 🚀 I’m currently working at [Celsius](https://celsius.network)
 
-- 👀 I’m currently learning **Typescript, Swift and React Native.**
+- 👀 I’m currently learning **Python, Web3 & Rust.**
 
 - 🤖 I’ve collaborated on [Celsians](https://celsians.com)
 
