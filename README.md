@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rguarascia&label=Profile%20views&color=0e75b6&style=flat" alt="rguarascia" /> </p>
 
-- 🚀 I’m currently working at [Celsius](https://celsius.network)
+- 🚀 I’m currently working at [Entri](https://entri.com)
 
 - 👀 I’m currently learning **Python, Web3 & Rust.**
 
-- 🤖 I’ve collaborated on [Celsians](https://celsians.com)
+- 🤖 I’ve collaborated on [Celsians](https://celsians.com), [Celsius](https://celsius.network)
 
 - 👓 Focused on **Financial Independence and anonymity**
 
