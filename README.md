@@ -7,8 +7,6 @@
 
 - 👀 I’m currently learning **Rust and wasm.**
 
-- 🤖 I’ve collaborated on [Celsians](https://celsians.com) and [Celsius](https://celsius.network)
-
 - 👓 Focused on **Speeding up the web**
 
 <h3 align="left">Connect with me:</h3>
